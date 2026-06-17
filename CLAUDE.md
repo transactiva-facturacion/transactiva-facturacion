@@ -341,3 +341,45 @@ BAJA → Corrección obligatoria → re-validar
 - Control desviación mensual automatizado
 - Integración SIPS lecturas automáticas
 - Subir `Validacion_Facturas_3TD_202606.xlsx` a GitHub
+
+---
+
+## Arranque de nueva sesión — instrucciones para Claude
+
+Al iniciar un nuevo chat en este proyecto, ejecutar esto para restaurar el estado:
+
+```python
+import base64, json, subprocess, os
+
+TOKEN = 'TU_TOKEN_GITHUB_AQUI'
+REPO  = 'transactiva-facturacion/transactiva-facturacion'
+
+def download(gh_path, local_path):
+    r = subprocess.run(['curl','-s',
+        '-H', 'Authorization: token '+TOKEN,
+        'https://api.github.com/repos/'+REPO+'/contents/'+gh_path],
+        capture_output=True, text=True)
+    resp = json.loads(r.stdout)
+    if 'content' in resp:
+        data = base64.b64decode(resp['content'])
+        os.makedirs(os.path.dirname(local_path), exist_ok=True)
+        with open(local_path,'wb') as f: f.write(data)
+        print('✅ '+local_path)
+    else:
+        print('❌ '+gh_path+': '+resp.get('message',''))
+
+download('datos/td3_pending.json',           '/home/claude/td3_pending.json')
+download('datos/validation_results_3td.json','/home/claude/validation_results_3td.json')
+download('datos/hist_ref_invoices.json',     '/home/claude/hist_ref_invoices.json')
+download('datos/client_nombres.json',        '/home/claude/client_nombres.json')
+download('Precios_PC_PV_por_CUPS.xlsx',      '/home/claude/Precios_PC_PV_por_CUPS.xlsx')
+```
+
+### Estado al cierre de sesión (junio 2026)
+- 27 facturas 3.0TD validadas: ALTA=9 | MEDIA=18 | BAJA=0
+- Excel de revisión: `validacion/2026-06/Validacion_Facturas_3TD_202606.xlsx`
+- **Pendiente**: corregir la vista comparativa de ORENCO (8544) — los colores de las
+  lecturas reales de i-DE no se están mostrando correctamente en la columna pendiente.
+  Las lecturas de P1, P2, P4, P5, P6 son reales y válidas. P3 es N/A (sin lectura).
+  La referencia anterior (6296) solo tiene P1, P2, P6.
+  La referencia año anterior (4508) solo tiene P4, P5, P6.
