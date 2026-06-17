@@ -1,0 +1,746 @@
+{
+  "Cód. Cliente": {
+    "nombre": "Nombre",
+    "cups": "CUPS"
+  },
+  "C01070": {
+    "nombre": "JERPHAAS CAMPAGNE",
+    "cups": "ES0021000000717167HR"
+  },
+  "C00320": {
+    "nombre": "MARIA ELENA DÍAZ MULET",
+    "cups": "ES0021000000819827LN"
+  },
+  "C01280": {
+    "nombre": "Mª ISABEL HEVIA TENA",
+    "cups": "ES0021000000820395KM"
+  },
+  "C01660": {
+    "nombre": "LIEUWE KOOPMANS (2)",
+    "cups": "ES0021000000820403KJ"
+  },
+  "C01990": {
+    "nombre": "GERRIT JONGEJAN",
+    "cups": "ES0021000000821181DD"
+  },
+  "C02970": {
+    "nombre": "SARA HERMINA NIJENHUIJS GREVE",
+    "cups": "ES0021000000821424LE"
+  },
+  "C02470": {
+    "nombre": "TALLER SENDRA CUELLO, S.L.",
+    "cups": "ES0021000000822827BE"
+  },
+  "C00090": {
+    "nombre": "MAGDALENA ORTOLÁ FERRER",
+    "cups": "ES0021000000823230YB"
+  },
+  "C00700": {
+    "nombre": "ELEEN VELTHOVEN",
+    "cups": "ES0021000000824899XR"
+  },
+  "C01150": {
+    "nombre": "ARIE PETER PETRI",
+    "cups": "ES0021000000825192EH"
+  },
+  "C01330": {
+    "nombre": "ULF BALZER",
+    "cups": "ES0021000000826123VY"
+  },
+  "C01540": {
+    "nombre": "FORN MONICA S L",
+    "cups": "ES0021000000827388AY"
+  },
+  "C03390": {
+    "nombre": "MAGDALENA ORTOLÁ FERRER",
+    "cups": "ES0021000000827500PA"
+  },
+  "C00040": {
+    "nombre": "Mª ROSARIO ORTOLÁ FERRER",
+    "cups": "ES0021000000827846TG"
+  },
+  "C01620": {
+    "nombre": "MIA EDELTRUDIS JOSEPHINA ZANTMAN",
+    "cups": "ES0021000000828286LF"
+  },
+  "C01250": {
+    "nombre": "DANIELLE B. PAULI",
+    "cups": "ES0021000000828326KR"
+  },
+  "C01190": {
+    "nombre": "BART VAN OERLE JOZEF J.",
+    "cups": "ES0021000000829575YP"
+  },
+  "C01110": {
+    "nombre": "WILLY SCHLUP",
+    "cups": "ES0021000000829804QF"
+  },
+  "C00260": {
+    "nombre": "MARÍA PASTOR GARCÍA",
+    "cups": "ES0021000000831419VN"
+  },
+  "C01300": {
+    "nombre": "CHRISTOPHE PETER VERHAEGHE",
+    "cups": "ES0021000000838405EY"
+  },
+  "C01350": {
+    "nombre": "CORDULA PETERS",
+    "cups": "ES0021000000841859BX"
+  },
+  "C02930": {
+    "nombre": "UWE HEINZ WERNER SCHMUCK",
+    "cups": "ES0021000000842065CD"
+  },
+  "C01020": {
+    "nombre": "WILLEM HOORELBEKE",
+    "cups": "ES0021000000842533VV"
+  },
+  "C02960": {
+    "nombre": "FRANK CLEMENT",
+    "cups": "ES0021000000844565ZW"
+  },
+  "C01140": {
+    "nombre": "DESIRÉ ANNA GUSTAAF SCHUTTER",
+    "cups": "ES0021000000845315TQ"
+  },
+  "C01470": {
+    "nombre": "LIEUWE KOOPMANS",
+    "cups": "ES0021000000845404GJ"
+  },
+  "C02520": {
+    "nombre": "MECANICA JOANS S.C",
+    "cups": "ES0021000000851515VY"
+  },
+  "C03140": {
+    "nombre": "JACOBO VIVES LADRÓN DE GUEVARA",
+    "cups": "ES0021000000936988FB"
+  },
+  "C03130": {
+    "nombre": "MARCELLO RAUCCI",
+    "cups": "ES0021000000938748ST"
+  },
+  "C03230": {
+    "nombre": "OLDRICH PETRAS",
+    "cups": "ES0021000000948050MX"
+  },
+  "C03150": {
+    "nombre": "ALEXANDER GAITAN TUSELL",
+    "cups": "ES0021000000951808FL"
+  },
+  "C01600": {
+    "nombre": "HAFELI BRIGITTE",
+    "cups": "ES0021000000958945LA"
+  },
+  "C02560": {
+    "nombre": "PEDRO IVARS TRO 2018, S.L.",
+    "cups": "ES0021000000959128GW"
+  },
+  "C02190": {
+    "nombre": "TAIRÉ VERA",
+    "cups": "ES0021000000961277MN"
+  },
+  "C01570": {
+    "nombre": "FRANCISCO MULA ROBERTO",
+    "cups": "ES0021000000971679CH"
+  },
+  "C02460": {
+    "nombre": "FRANCISCO MATEO PEDROS PEREZ",
+    "cups": "ES0021000001149669PB"
+  },
+  "C03340": {
+    "nombre": "CRISTIAN DAVID BETANCUR BARRERA",
+    "cups": "ES0021000001150431HZ"
+  },
+  "C01870": {
+    "nombre": "GUILLERMO CHOLBI SART",
+    "cups": "ES0021000001150884SF"
+  },
+  "C02800": {
+    "nombre": "ABDESLAM LAMRANI",
+    "cups": "ES0021000001191925MQ"
+  },
+  "C02820": {
+    "nombre": "FRANCISCO DANIEL GUIJARRO ORTEGA",
+    "cups": "ES0021000001191926MV"
+  },
+  "C01810": {
+    "nombre": "ANDREA SALERNO",
+    "cups": "ES0021000001192307EF"
+  },
+  "C00760": {
+    "nombre": "SALVADOR TORRES BISQUERT",
+    "cups": "ES0021000001192533DA"
+  },
+  "C02380": {
+    "nombre": "FORMATGES MÓNICA",
+    "cups": "ES0021000001192535DM"
+  },
+  "C01730": {
+    "nombre": "LORENA ROCIO PAUCAR LÓPEZ",
+    "cups": "ES0021000001192552DE"
+  },
+  "C01980": {
+    "nombre": "TINTORERÍA LAVANDERÍA COLOMER",
+    "cups": "ES0021000001194238ZY"
+  },
+  "C02610": {
+    "nombre": "VEHICULOS ANDRADA, S.L.",
+    "cups": "ES0021000001194258SA"
+  },
+  "C03410": {
+    "nombre": "NORAY PUERTO 2012 S.L.",
+    "cups": "ES0021000001194487WW"
+  },
+  "C02400": {
+    "nombre": "MARUJA CHOLBI PUIG",
+    "cups": "ES0021000001194530AE"
+  },
+  "C01840": {
+    "nombre": "JOSE GUILLERMO CHOLBI SART",
+    "cups": "ES0021000001195518TK"
+  },
+  "C01530": {
+    "nombre": "JUAN POCH FERNANDEZ",
+    "cups": "ES0021000001196881ZG"
+  },
+  "C02780": {
+    "nombre": "MARIA PILAR CATALA SANTAMARIA",
+    "cups": "ES0021000001197031CQ"
+  },
+  "C02330": {
+    "nombre": "ORENCO 2019, S.L.",
+    "cups": "ES0021000001197056KH"
+  },
+  "C02510": {
+    "nombre": "ANTONIO LLIDO ESPASA",
+    "cups": "ES0021000001197237YS"
+  },
+  "C02620": {
+    "nombre": "JAVEA PADEL & Tenis SL",
+    "cups": "ES0021000001197843XT"
+  },
+  "C02700": {
+    "nombre": "TALLERES MARTINEZ JAVEA SL",
+    "cups": "ES0021000001198420NW"
+  },
+  "C00940": {
+    "nombre": "ANDRE DOUTREVAL",
+    "cups": "ES0021000001199725EL"
+  },
+  "C01420": {
+    "nombre": "JAIME VIVES",
+    "cups": "ES0021000001200654VM"
+  },
+  "C03440": {
+    "nombre": "DIEGO BARQUERO PEREZ",
+    "cups": "ES0021000001200743KW"
+  },
+  "C00020": {
+    "nombre": "FCO. JOSÉ TORRES BISQUERT",
+    "cups": "ES0021000001201476YE"
+  },
+  "C02860": {
+    "nombre": "SALVADOR TORRES BISQUERT",
+    "cups": "ES0021000001201668SF"
+  },
+  "C03060": {
+    "nombre": "MARIA TERESA PONS DEVESA",
+    "cups": "ES0021000001201680SL"
+  },
+  "C02350": {
+    "nombre": "YANIS DAHIANA JIMENEZ JIMENEZ",
+    "cups": "ES0021000001202657NF"
+  },
+  "C01850": {
+    "nombre": "GUILLERMO CHOLBI SART",
+    "cups": "ES0021000001204184DQ"
+  },
+  "C03430": {
+    "nombre": "MARIA DEL MAR FERRANDO GUILLEM",
+    "cups": "ES0021000001204298ZS"
+  },
+  "C02990": {
+    "nombre": "AMARE BOTEGA SL",
+    "cups": "ES0021000001204720XT"
+  },
+  "C02390": {
+    "nombre": "ISLETA MARINA NUEVOS DESARROLLOS, S.L.",
+    "cups": "ES0021000001204856SK"
+  },
+  "C03270": {
+    "nombre": "LULU BEACH CLUB JAVEA SL",
+    "cups": "ES0021000001205457LR"
+  },
+  "C01670": {
+    "nombre": "COCKTAIL BAR AYAHUMA",
+    "cups": "ES0021000001205999LZ"
+  },
+  "C00100": {
+    "nombre": "CRISTINA MARÍA FALCÓN ESCALONA",
+    "cups": "ES0021000001206049KH"
+  },
+  "C02240": {
+    "nombre": "SANDRA GONZALEZ LECHUGA",
+    "cups": "ES0021000001206078TR"
+  },
+  "C00710": {
+    "nombre": "FRANCISCO TORRES FERRER",
+    "cups": "ES0021000001206201MD"
+  },
+  "C01710": {
+    "nombre": "FARMACIA ESPINÓS",
+    "cups": "ES0021000001207126EZ"
+  },
+  "C00060": {
+    "nombre": "HV LUXO SA",
+    "cups": "ES0021000001208122LK"
+  },
+  "C00270": {
+    "nombre": "CLAUDE JOSÉ GOFFINET",
+    "cups": "ES0021000001208140CQ"
+  },
+  "C00130": {
+    "nombre": "BIO JARDINSOSTENIBLE, S.L.U.",
+    "cups": "ES0021000001209135VE"
+  },
+  "C03220": {
+    "nombre": "EVA ROHRMAN MADOVA",
+    "cups": "ES0021000001209164LM"
+  },
+  "C01200": {
+    "nombre": "SOLUCIONES GASTRONÓMICAS DE JAVEA 2014, S.L.",
+    "cups": "ES0021000001209594ZK"
+  },
+  "C01630": {
+    "nombre": "ALEJANDRO BOX CANDELA",
+    "cups": "ES0021000001209877GM"
+  },
+  "C01510": {
+    "nombre": "CAFE ZUR BACKSTUBE, S.L.",
+    "cups": "ES0021000001210140SS"
+  },
+  "C03200": {
+    "nombre": "2 HANDS FULL, S.L",
+    "cups": "ES0021000001210751LM"
+  },
+  "C00050": {
+    "nombre": "HELADOS ESPI",
+    "cups": "ES0021000001210794KW"
+  },
+  "C03300": {
+    "nombre": "COMPASS IBERICA 2007 SL",
+    "cups": "ES0021000001211776VH"
+  },
+  "C03030": {
+    "nombre": "JUAN MANUEL CAMACHO GONZALEZ",
+    "cups": "ES0021000001212039YM"
+  },
+  "C01720": {
+    "nombre": "AHMED DAHMAN",
+    "cups": "ES0021000001212203JP"
+  },
+  "C03280": {
+    "nombre": "SOPHIA ROSE WADLE",
+    "cups": "ES0021000001212470RE"
+  },
+  "C00390": {
+    "nombre": "KARINA IWONA TRAFNA",
+    "cups": "ES0021000001212737JJ"
+  },
+  "C02680": {
+    "nombre": "ALVARO DAVID OCHOA BIOSCA",
+    "cups": "ES0021000001213790JP"
+  },
+  "C03240": {
+    "nombre": "SPAINLIFE AND HOUSES S.L.",
+    "cups": "ES0021000001214540EE"
+  },
+  "C00410": {
+    "nombre": "VALENTINA BARCA",
+    "cups": "ES0021000001215730MQ"
+  },
+  "C00010": {
+    "nombre": "SALVADOR TORRES",
+    "cups": "ES0021000001215951SF"
+  },
+  "C01880": {
+    "nombre": "ALEJANDRO BOX CANDELA",
+    "cups": "ES0021000001216036LT"
+  },
+  "C02640": {
+    "nombre": "JUAN CARLOS HERNANDEZ MELERO",
+    "cups": "ES0021000001216778MY"
+  },
+  "C00910": {
+    "nombre": "PATRICE HERNEST HECQ",
+    "cups": "ES0021000001218582ZQ"
+  },
+  "C01400": {
+    "nombre": "CHRISTOPH BLUME",
+    "cups": "ES0021000001274226LT"
+  },
+  "C03490": {
+    "nombre": "UR. KRISTAL ANT",
+    "cups": "ES0021000001277089MB"
+  },
+  "C02590": {
+    "nombre": "NIZAR EL MAIMOUNI",
+    "cups": "ES0021000001283336RW"
+  },
+  "C03160": {
+    "nombre": "MOISES CARMONA FERNANDEZ",
+    "cups": "ES0021000001348488GH"
+  },
+  "C03400": {
+    "nombre": "ZISKO SLAVOMIR",
+    "cups": "ES0021000001386440KC"
+  },
+  "C02670": {
+    "nombre": "ANOUK AIMEE MONNIK",
+    "cups": "ES0021000001496936LR"
+  },
+  "C00790": {
+    "nombre": "CASA LILI, S.L.",
+    "cups": "ES0021000001498860XQ"
+  },
+  "C02710": {
+    "nombre": "CASA LILI S.L. AUTOS (EXPOSICIÓN)",
+    "cups": "ES0021000001498862XH"
+  },
+  "C00310": {
+    "nombre": "MICHAEL BALMER",
+    "cups": "ES0021000001498936ZT"
+  },
+  "C01800": {
+    "nombre": "ROY SCHOLTEN",
+    "cups": "ES0021000001501271TN"
+  },
+  "C01830": {
+    "nombre": "KATARSIS MORAIRA, S.L.U.",
+    "cups": "ES0021000001502014DL"
+  },
+  "C01820": {
+    "nombre": "PIZZERIA TIGER, S.L.",
+    "cups": "ES0021000001502015DC"
+  },
+  "C03050": {
+    "nombre": "JAN ANDERS ANSEHN",
+    "cups": "ES0021000001502901WD"
+  },
+  "C01460": {
+    "nombre": "MARCUS JOHANNES MULLER",
+    "cups": "ES0021000001504069FG"
+  },
+  "C03170": {
+    "nombre": "THOMAS CHRISTIAAN GREVE",
+    "cups": "ES0021000001504221JH"
+  },
+  "C01860": {
+    "nombre": "GUILLERMO CHOLBI SART",
+    "cups": "ES0021000001664631LA"
+  },
+  "C03110": {
+    "nombre": "RUBÉN CAMACHO PATRICIO",
+    "cups": "ES0021000004645064KG"
+  },
+  "C03040": {
+    "nombre": "JUAN MANUEL CAMACHO GONZALEZ",
+    "cups": "ES0021000005295382MC"
+  },
+  "C03350": {
+    "nombre": "SARA BARBERA SOLA",
+    "cups": "ES0021000007872840JY"
+  },
+  "C03360": {
+    "nombre": "CBDSROLL,S.L.",
+    "cups": "ES0021000008123399MA"
+  },
+  "C03000": {
+    "nombre": "EXHIBITION OF ILUSIONS S.L.",
+    "cups": "ES0021000008620543TW"
+  },
+  "C01490": {
+    "nombre": "JOSE EDUARDO BAYONA SOTOS",
+    "cups": "ES0021000008703423SJ"
+  },
+  "C03330": {
+    "nombre": "MARIA SOLEDAD ANSOLA ESTRADA",
+    "cups": "ES0021000008759184RE"
+  },
+  "C01930": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000008997144KR"
+  },
+  "C02140": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000008997145KW"
+  },
+  "C02020": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000008997146KA"
+  },
+  "C02060": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000008997147KG"
+  },
+  "C02040": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000009023658TL"
+  },
+  "C02030": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000009023659TC"
+  },
+  "C03010": {
+    "nombre": "EXHIBITION OF ILUSIONS S.L.",
+    "cups": "ES0021000009532773XY"
+  },
+  "C01240": {
+    "nombre": "DENNIS MICHELS",
+    "cups": "ES0021000010309034LV"
+  },
+  "C02180": {
+    "nombre": "EDWIN BAUMGARTNER",
+    "cups": "ES0021000010447948XB"
+  },
+  "C00460": {
+    "nombre": "SABINE SUZANNE J. LAMORAL",
+    "cups": "ES0021000010662391LW"
+  },
+  "C01310": {
+    "nombre": "ANOUK AIMEE MONNIK",
+    "cups": "ES0021000010924473ME"
+  },
+  "C01160": {
+    "nombre": "DEBORAH LEFFELAAR",
+    "cups": "ES0021000011060321RD"
+  },
+  "C02950": {
+    "nombre": "TALLERES MARTINEZ JAVEA, S.L.",
+    "cups": "ES0021000011306311RZ"
+  },
+  "C01440": {
+    "nombre": "VICENTE BAS ALENTADO",
+    "cups": "ES0021000011331851PR"
+  },
+  "C02540": {
+    "nombre": "TERESA MENGUAL ALBEROLA",
+    "cups": "ES0021000011425522DQ"
+  },
+  "C00780": {
+    "nombre": "MONTGO SEGURIDAD, S.L.",
+    "cups": "ES0021000011513513VD"
+  },
+  "C00540": {
+    "nombre": "PEDRO CAÑADAS FERNANDEZ",
+    "cups": "ES0021000011666174FL"
+  },
+  "C02690": {
+    "nombre": "TALLERES MARTINEZ JAVEA SL",
+    "cups": "ES0021000011702707DM"
+  },
+  "C01390": {
+    "nombre": "DANIEL DE WIT",
+    "cups": "ES0021000011984452TT"
+  },
+  "C02080": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000012268825JR"
+  },
+  "C02100": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000012268826JW"
+  },
+  "C02090": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000012268828JG"
+  },
+  "C02110": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000012268829JM"
+  },
+  "C02120": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000012268831JF"
+  },
+  "C02130": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000012268833JD"
+  },
+  "C03320": {
+    "nombre": "ELISABETH M. PAREDES DE QUINTERO",
+    "cups": "ES0021000012286668YL"
+  },
+  "C02740": {
+    "nombre": "FRANCISCO DANIEL GUIJARRO ORTEGA",
+    "cups": "ES0021000012536439XX"
+  },
+  "C02760": {
+    "nombre": "ISABEL RAMIREZ CAPDEVILA",
+    "cups": "ES0021000012536447XH"
+  },
+  "C02160": {
+    "nombre": "CASA LILI SL (V)",
+    "cups": "ES0021000012599393XJ"
+  },
+  "C02340": {
+    "nombre": "PRISCILA WELTER CARRASCO",
+    "cups": "ES0021000012718599HX"
+  },
+  "C01770": {
+    "nombre": "CASA LILI JAVEA, S.L.",
+    "cups": "ES0021000012742166PW"
+  },
+  "C02630": {
+    "nombre": "AUTOCENTER MARINA ALTA S.L.",
+    "cups": "ES0021000013052712DW"
+  },
+  "C00820": {
+    "nombre": "JAIME VIVES LADRÓN DE GUEVARA",
+    "cups": "ES0021000013325188XC"
+  },
+  "C02420": {
+    "nombre": "KHALID EL JEBLI",
+    "cups": "ES0021000013419226MB"
+  },
+  "C02430": {
+    "nombre": "CINDY DEPERE",
+    "cups": "ES0021000013419235MC"
+  },
+  "C03070": {
+    "nombre": "CONGLI WANG",
+    "cups": "ES0021000013610497HZ"
+  },
+  "C03450": {
+    "nombre": "RADEK ERBEN",
+    "cups": "ES0021000013695713CS"
+  },
+  "C02840": {
+    "nombre": "VICENTE BAS ALENTADO",
+    "cups": "ES0021000015284291CY"
+  },
+  "C02910": {
+    "nombre": "NICHOLAS JAMES RATCLIFFE",
+    "cups": "ES0021000015846775GW"
+  },
+  "C01220": {
+    "nombre": "VIVES ELECTRODOMÉSTICOS, S.L.",
+    "cups": "ES0021000016067263EN"
+  },
+  "C01750": {
+    "nombre": "HORST FOGOLIN",
+    "cups": "ES0021000016199402VQ"
+  },
+  "C00740": {
+    "nombre": "PIZZERIA ORBA, S.L.",
+    "cups": "ES0021000017299736HF"
+  },
+  "C00730": {
+    "nombre": "JOERI DEBRUYNE",
+    "cups": "ES0021000018456661HD"
+  },
+  "C03180": {
+    "nombre": "LERWIN SANTIAGO AVENDAÑO ANDRADE",
+    "cups": "ES0021000018843904LR"
+  },
+  "C00250": {
+    "nombre": "JULIA RODRÍGUEZ RIAÑO",
+    "cups": "ES0021000019508950TW"
+  },
+  "C01970": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000020111637YC"
+  },
+  "C01960": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000020111638YK"
+  },
+  "C02150": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000020111640FT"
+  },
+  "C01910": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000020111642FW"
+  },
+  "C01920": {
+    "nombre": "FUNDACIÓN FSU PROGRAMAS INTERNACIONALES",
+    "cups": "ES0021000020111643FA"
+  },
+  "C02600": {
+    "nombre": "CRISTIAN FERRARI",
+    "cups": "ES0021000020674389WP"
+  },
+  "C02530": {
+    "nombre": "JUAN SANCHEZ RONDA",
+    "cups": "ES0021000021069440CB"
+  },
+  "C00120": {
+    "nombre": "STEPHEN RICHARD ROBINSON",
+    "cups": "ES0021000021936589WZ"
+  },
+  "C02210": {
+    "nombre": "MATEUSZ ZBIGNIEW WARCHOLINKI",
+    "cups": "ES0021000022141069SR"
+  },
+  "C03190": {
+    "nombre": "2 HANDS FULL S.L",
+    "cups": "ES0021000037345279RS"
+  },
+  "C01500": {
+    "nombre": "SANTIAGO JAVIER NUÑEZ JOVER",
+    "cups": "ES0021000037410824EX"
+  },
+  "C03310": {
+    "nombre": "AMANDA APARICI MARTINEZ",
+    "cups": "ES0021000038540357GJ"
+  },
+  "C00670": {
+    "nombre": "CARLOS A. GAVILANES PAUCAR",
+    "cups": "ES0021000039192179PS"
+  },
+  "C03210": {
+    "nombre": "VLADIMIR KREMPASKY",
+    "cups": "ES0021000039701028YN"
+  },
+  "C03460": {
+    "nombre": "SILVIA KREMPASKA",
+    "cups": "ES0021000039701362KR"
+  },
+  "C03290": {
+    "nombre": "CHRISTIAN STRUYF",
+    "cups": "ES0021000041455631WZ"
+  },
+  "C03480": {
+    "nombre": "MICHAL GLOSIK",
+    "cups": "ES0021000042199454GV"
+  },
+  "C03250": {
+    "nombre": "SPAINLIFE AND HOUSES S.L.",
+    "cups": "ES0021000042961967ZB"
+  },
+  "C03260": {
+    "nombre": "MICHAL CUKAN",
+    "cups": "ES0021000042994597FG"
+  },
+  "C02920": {
+    "nombre": "JAKUB JAN PICHOLA",
+    "cups": "ES0021000043297204PT"
+  },
+  "C03420": {
+    "nombre": "TIBOR ZACIK",
+    "cups": "ES0021000043613462GP"
+  },
+  "C03020": {
+    "nombre": "MONTGO SEGURIDAD S.L.",
+    "cups": "ES0021000043781374JC"
+  },
+  "C00970": {
+    "nombre": "MANUEL GARCÍA DEL VALLE CARLOS-ROCA",
+    "cups": "ES0022000007974829ZA"
+  },
+  "C00770": {
+    "nombre": "BOXFERRER, S.L.",
+    "cups": "ES0162000000001264JN"
+  }
+}
